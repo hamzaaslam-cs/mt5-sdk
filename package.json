@@ -1,6 +1,6 @@
 {
   "name": "mt5-sdk",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A Node.js SDK for interacting with the MetaTrader 5 Web API, enabling seamless integration of MetaTrader 5 trading features into your applications.",
   "main": "index.js",
   "directories": {
